@@ -1,10 +1,10 @@
 body {
-    background-color: #EE82EE; 
+    background-color: lightblue; 
   }
   
   h1 {
-    color: white; 
-    text-align: #F0FFFF;
+    color: white;
+    text-align: center;
   }
   
   p {
